@@ -1,7 +1,7 @@
 package theater;
 
 /**
- * Constants used in this program.
+ * Constants used in this program a.
  */
 public final class Constants {
 

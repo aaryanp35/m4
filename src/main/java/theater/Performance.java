@@ -1,7 +1,7 @@
 package theater;
 
 /**
- * Class representing a performance of a play.
+ * Class representing a performance of a play a.
  */
 public class Performance {
 
@@ -21,3 +21,4 @@ public class Performance {
         return audience;
     }
 }
+

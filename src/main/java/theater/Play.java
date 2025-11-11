@@ -1,7 +1,7 @@
 package theater;
 
 /**
- * Represents a theatrical play with a name and a genre type.
+ * Represents a theatrical play with a name and a genre type a.
  */
 public class Play {
 

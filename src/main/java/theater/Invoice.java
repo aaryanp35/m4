@@ -3,7 +3,7 @@ package theater;
 import java.util.List;
 
 /**
- * Class representing an invoice for a customer.
+ * Class representing an invoice for a customer a.
  */
 public class Invoice {
 
