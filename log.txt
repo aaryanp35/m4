@@ -1,4 +1,6 @@
-46bee4e (HEAD -> main, origin/main, origin/HEAD) Merge remote-tracking branch 'origin/main'
+4911e8e Task 1.2
+51b45f5 Task 1.2
+46bee4e Merge remote-tracking branch 'origin/main'
 1a1d1ee Task 1.1
 6139b4a Task 1.1
 b1d4dfd Change COMEDY_AUDIENCE_THRESHOLD to static final
